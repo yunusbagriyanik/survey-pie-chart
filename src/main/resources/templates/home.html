@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1"/>
+<title>Home</title>
+</head>
+<body>
+	<div align="center">
+		<a th:href="@{/survey/displayBarGraph}">Analysis of the result as Bar Graph</a>
+		<br/> <br/>
+		<a th:href="@{/survey/displayPieChart}">Analysis of the result as Pie Chart</a>
+	</div>
+	<br><br>
+	<!-- 
+	<form action=""  th:action="@{/survey/process}" th:object="${surveyMap}" method="post">
+			
+			  
+			  <br><br>			
+		 	  <input type="radio" th:name="${'priorities'}" value="a" />A
+		 	  <br><br>
+              <input type="radio" th:name="${'priorities'}" value="b" />B
+              <br><br>
+              <input type="radio" th:name="${'priorities'}" value="c" />C
+              <br><br>
+              <input type="radio" th:name="${'priorities'}" value="c" />D
+	<br><br>
+	<input type="submit" value="Submit"/>
+	</form>
+	 	 -->			
+</body>
+</html>

@@ -1,0 +1,9 @@
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/SurveyModelProperties.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/service/SurveyResultServiceImpl.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/controller/SurveyController.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/model/Choices.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/SurveyModelApplication.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/service/SurveyResultsService.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/dao/SurveyResultsRepository.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/SurveyModelConfiguration.java
+/Users/yunus/eclipse-workspace/surveymodel/src/main/java/com/springboot/surveymodel/daotest/ResultRepositoryMemoryImpl.java
